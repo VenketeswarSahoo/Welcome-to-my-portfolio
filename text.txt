@@ -1,0 +1,8 @@
+-- First do your frontend work
+-- Next open terminal and write "npm init"
+-- It will ask some question like [entry point: app.js]
+-- Then install your packages such as [body-parser consolidate express mongoose swig]
+-- Manually crate a app.js file
+-- Write your node.js code
+-- Go to mongoDB and crate your data base
+-- Then add connection string in the app.js

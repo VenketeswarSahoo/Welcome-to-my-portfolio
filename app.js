@@ -12,6 +12,7 @@ const hostname = "127.0.0.1";
 // --------------------------------
 
 main().catch(err => console.log(err));
+
 async function main() {
   await mongoose.connect(
     "mongodb://127.0.0.1:27017/venkatesh-portfolio-database"

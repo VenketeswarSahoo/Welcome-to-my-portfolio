@@ -273,7 +273,7 @@ body {
 
 @media (max-width:600px) {
     #page1 {
-        min-height: 73vh;
+        min-height: 51vh;
         width: 100%;
         display: flex;
         align-items: center;
@@ -289,7 +289,7 @@ body {
     }
 
     #image-div {
-        height: 45vmax;
+        height: 55%;
         width: 75vw;
         /* border-radius: 50%; */
         /* background-color: red; */
